@@ -62,7 +62,7 @@ function App() {
 
         <ToastContainer autoClose={5000} theme="colored" newestOnTop={true} />
       </div>
-      <div className="absolute bottom-0 left-0 right-0 text-slate-100 text-center">
+      <div className="absolute bottom-10 left-0 right-0 text-slate-100 text-center">
         &#169; 2022 Ashujit
       </div>
     </>
